@@ -13,10 +13,6 @@ http://themeforest.net/licenses
 
 /* Screen small than 1024px */
 @media (max-width : 1024px){
-	.header{
-		
-	
-	}
 	.pane-when{
 	}
 	.pane-when .content{
@@ -272,10 +268,6 @@ http://themeforest.net/licenses
 		bottom: 16px;
 		top: auto;
 	}
-	.header-top .logo img {
-		height: 32px;
-		padding: 0px 10px;
-	}
 }
 
 /* Screen small than 360px */
@@ -297,10 +289,7 @@ http://themeforest.net/licenses
 	.contact .social-links{
 		display: none;
 	}
-	.header-top .logo img {
-		height: 32px;
-		padding: 0px 10px;
-	}
+	
 }
 /* Screen small than 320px */
 @media (max-width : 320px){
@@ -369,10 +358,6 @@ http://themeforest.net/licenses
 	.header-top .menu a {
 		padding-top: 6px;
 	}
-	.header-top .logo img {
-		height: 32px;
-		padding: 0px 10px;
-	}
 }
 
 
@@ -385,17 +370,10 @@ http://themeforest.net/licenses
 	.p-footer {
 		display: none;
 	}
-.header-top  {
-		height: 32px;
-		padding: 0px 10px;
-	}
-	}
+}
 /* Responsive height */
 @media (max-height : 420px){
-	.header-top .logo img {
-		height: 32px;
-		padding: 0px 10px;
-	}
+	
 	.page .content .clock {
 		-webkit-transform: scale(0.4) translateX(-125%) translateY(-125%);
 		transform: scale(0.4) translateX(-125%) translateY(-125%);
